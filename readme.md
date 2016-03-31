@@ -12,6 +12,4 @@ indicates that a correct color wire was chosen and connected to the correct pin.
 illuminate and the servo arm will rotate to allow the box lid to be removed. If the player fails to solve the code within the time frame,
 the program restarts and generates a new code.
 
-The remaining time is displayed by a 3 digit 7-segment display. The 7-segment display and the response LEDs are driven by daisy-chained 
-sourcing serial-in, parallel-out shift registers, cycled repeatedly to take advantage of persistance of vision so as to not exceed the 
-maximum current output of the shift registers.
+Elapsed time is tracked using the SimpleTimer library and the remaining time is displayed by a 3 digit 7-segment display. The 7-segment display and the response LEDs are driven by daisy-chained sourcing serial-in, parallel-out shift registers, cycled repeatedly to take advantage of persistance of vision so as to not exceed the maximum current output of the shift registers.
