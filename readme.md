@@ -1,4 +1,4 @@
-![alt text](lockbox face.jpg "")
+![lockbox](lockbox face.jpg "")
 
 MasterMind Puzzle Box
 
