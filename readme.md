@@ -1,3 +1,5 @@
+![alt text](lockbox face.jpg "")
+
 MasterMind Puzzle Box
 
 This Arduino project is based off of the MasterMind boardgame.
